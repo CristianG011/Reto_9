@@ -102,7 +102,9 @@ else:
     print(f"La cantiad de personas contagiadas al día {d} son {cov} personas ")  
 ```
 # Punto 4
-#Punto 5
+Lamentablemente no entendí este punto 
+lo siento<3
+# Punto 5
 ![](https://i.ibb.co/F7R56GJ/SAIODAS123.jpg)
 #Punto 6
 ![](https://i.ibb.co/MM0NmgR/Captura2.jpg)
